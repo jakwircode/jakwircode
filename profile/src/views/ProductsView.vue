@@ -42,13 +42,18 @@ const fetchProducts = async () => {
       .from('products')
       .select('*')
       .eq('is_active', true)
-      .order('created_at', { ascending: true })
 
-    if (error) throw error
+    // Jika tabel belum ada atau terjadi error database
+    if (error) {
+      console.warn('Tabel Supabase belum tersedia atau kosong:', error.message)
+      products.value = []
+      return
+    }
+
     products.value = data || []
   } catch (err: any) {
-    console.error('Error fetching products:', err)
-    fetchError.value = err.message || 'Gagal memuat data produk'
+    console.warn('Gagal terhubung atau tabel belum dibuat:', err.message)
+    products.value = [] // Pastikan array kosong agar soft empty state yang tampil
   } finally {
     isLoading.value = false
   }

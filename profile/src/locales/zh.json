@@ -198,10 +198,11 @@
     "subtitle": "JakwirCode 团队随时准备回答疑问、提供费用估算或讨论您的技术解决方案需求。",
     "form": {
       "title": "发送 WhatsApp 消息",
+      "subtitle": "填写以下表单即可直接与我们的团队在 WhatsApp 上联系。",
       "name_label": "姓名",
       "name_placeholder": "输入您的姓名",
       "email_label": "电子邮件",
-      "email_placeholder": "name@company.com",
+      "email_placeholder": "姓名 at company.com",
       "subject_label": "服务 / 项目主题",
       "subject_placeholder": "选择或输入项目主题",
       "message_label": "需求详情",

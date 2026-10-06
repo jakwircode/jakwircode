@@ -22,13 +22,13 @@ const currentYear = new Date().getFullYear()
           <div class="pt-2 border-t border-[#166479]/60 space-y-1 text-xs text-neutral-300">
             <p>{{ $t('footer.address') }}</p>
             <p>
-              <a href="mailto:contact@jakwircode.com" class="hover:text-[#ffc107] transition-colors">
-                contact@jakwircode.com
+              <a href="mailto:info@jakwircode.com" class="hover:text-[#ffc107] transition-colors">
+                info@jakwircode.com
               </a>
             </p>
             <p>
-              <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer" class="hover:text-[#ffc107] transition-colors">
-                +62 812-3456-7890
+              <a href="https://wa.me/+6287882974378" target="_blank" rel="noopener noreferrer" class="hover:text-[#ffc107] transition-colors">
+                +62 878-8297-4378
               </a>
             </p>
           </div>

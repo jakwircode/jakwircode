@@ -45,13 +45,18 @@ const fetchServices = async () => {
       .from('services')
       .select('*')
       .eq('is_active', true)
-      .order('created_at', { ascending: true })
 
-    if (error) throw error
+    // Jika tabel belum ada atau terjadi error database
+    if (error) {
+      console.warn('Tabel Supabase belum tersedia atau kosong:', error.message)
+      services.value = []
+      return
+    }
+
     services.value = data || []
   } catch (err: any) {
-    console.error('Error fetching services:', err)
-    fetchError.value = err.message || 'Gagal memuat data solusi'
+    console.warn('Gagal terhubung atau tabel belum dibuat:', err.message)
+    services.value = [] // Pastikan array kosong agar soft empty state yang tampil
   } finally {
     isLoading.value = false
   }

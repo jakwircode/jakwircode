@@ -7,7 +7,7 @@ const route = useRoute()
 const { t } = useI18n()
 
 // Nomor WhatsApp tujuan JakwirCode (Ganti dengan nomor WhatsApp aktif)
-const whatsappNumber = '6285123456789'
+const whatsappNumber = '6287882974378'
 
 const form = ref({
   name: '',
@@ -80,7 +80,7 @@ const sendToWhatsApp = () => {
             {{ $t('contact.form.title') }}
           </h2>
           <p class="text-xs text-neutral-400">
-            Isi formulir berikut untuk langsung terhubung dengan tim kami di WhatsApp.
+            {{ $t('contact.form.subtitle') }}
           </p>
         </div>
 
@@ -169,7 +169,7 @@ const sendToWhatsApp = () => {
             
             <!-- WhatsApp Direct Item -->
             <a 
-              :href="`https://wa.me/${whatsappNumber}`" 
+              :href="`https://wa.me/+6287882974378`" 
               target="_blank" 
               rel="noopener noreferrer"
               class="flex items-start gap-4 p-4 rounded-2xl bg-neutral-950/80 border border-neutral-800/80 hover:border-[#ffc107]/50 transition-colors group"
@@ -183,14 +183,14 @@ const sendToWhatsApp = () => {
                 <p class="font-bold text-white group-hover:text-[#ffc107] transition-colors">
                   {{ $t('contact.info.wa_direct') }}
                 </p>
-                <p class="text-neutral-300 font-mono text-[11px] mt-0.5">+62 851-2345-6789</p>
+                <p class="text-neutral-300 font-mono text-[11px] mt-0.5">+62 878-8297-4378</p>
                 <p class="text-[10px] text-neutral-400 mt-0.5">{{ $t('contact.info.wa_desc') }}</p>
               </div>
             </a>
 
             <!-- Email Direct Item -->
             <a 
-              href="mailto:contact@jakwircode.com" 
+              :href="`mailto:info@jakwircode.com`" 
               class="flex items-start gap-4 p-4 rounded-2xl bg-neutral-950/80 border border-neutral-800/80 hover:border-[#ffc107]/50 transition-colors group"
             >
               <div class="p-2.5 rounded-xl bg-[#0b4251] text-[#ffc107] shrink-0">
@@ -202,7 +202,7 @@ const sendToWhatsApp = () => {
                 <p class="font-bold text-white group-hover:text-[#ffc107] transition-colors">
                   {{ $t('contact.info.email_direct') }}
                 </p>
-                <p class="text-neutral-300 font-mono text-[11px] mt-0.5">contact@jakwircode.com</p>
+                <p class="text-neutral-300 font-mono text-[11px] mt-0.5">info@jakwircode.com</p>
               </div>
             </a>
 

@@ -198,10 +198,11 @@
     "subtitle": "JakwirCode team is ready to answer questions, provide cost estimates, or discuss your technology solution needs.",
     "form": {
       "title": "Send WhatsApp Message",
+      "subtitle": "Fill out the form below to connect directly with our team on WhatsApp.",
       "name_label": "Full Name",
       "name_placeholder": "Enter your name",
       "email_label": "Email Address",
-      "email_placeholder": "name@company.com",
+      "email_placeholder": "name at company.com",
       "subject_label": "Service / Project Subject",
       "subject_placeholder": "Select or type project topic",
       "message_label": "Requirement Details",

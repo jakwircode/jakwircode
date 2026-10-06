@@ -199,10 +199,11 @@
     "subtitle": "Tim JakwirCode siap membantu menjawab pertanyaan, memberikan estimasi biaya, atau mendiskusikan kebutuhan solusi teknologi Anda.",
     "form": {
       "title": "Kirim Pesan WhatsApp",
+      "subtitle": "Isi formulir berikut untuk langsung terhubung dengan tim kami di WhatsApp.",
       "name_label": "Nama Lengkap",
       "name_placeholder": "Masukkan nama Anda",
       "email_label": "Email",
-      "email_placeholder": "nama@perusahaan.com",
+      "email_placeholder": "nama at company.com",
       "subject_label": "Layanan / Subjek Proyek",
       "subject_placeholder": "Pilih atau ketik topik proyek",
       "message_label": "Rincian Kebutuhan",

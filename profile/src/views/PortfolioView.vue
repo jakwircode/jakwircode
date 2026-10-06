@@ -54,13 +54,18 @@ const fetchPortfolios = async () => {
       .from('portfolios')
       .select('*')
       .eq('is_active', true)
-      .order('created_at', { ascending: false })
 
-    if (error) throw error
+    // Jika tabel belum ada atau terjadi error database
+    if (error) {
+      console.warn('Tabel Supabase belum tersedia atau kosong:', error.message)
+      portfolios.value = []
+      return
+    }
+
     portfolios.value = data || []
   } catch (err: any) {
-    console.error('Error fetching portfolios:', err)
-    fetchError.value = err.message || 'Gagal memuat data portofolio'
+    console.warn('Gagal terhubung atau tabel belum dibuat:', err.message)
+    portfolios.value = [] // Pastikan array kosong agar soft empty state yang tampil
   } finally {
     isLoading.value = false
   }
