@@ -133,6 +133,11 @@
           "bio": "Alumni Universitas Harkat Negeri. Berfokus pada rekayasa perangkat lunak, pengembangan aplikasi mobile, optimalisasi sistem, dan UI/UX implementation."
         }
       }
+    },
+    "cta": {
+      "title": "Tertarik Bekerja Sama dengan JakwirCode?",
+      "description": "Mari diskusikan ide proyek atau kebutuhan solusi teknologi Anda bersama tim kami.",
+      "button": "Mulai Diskusi"
     }
   },
   "solutions": {

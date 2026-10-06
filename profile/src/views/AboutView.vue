@@ -217,10 +217,10 @@ import { RouterLink } from 'vue-router'
     <section class="p-8 sm:p-12 bg-gradient-to-r from-[#0b4251] to-[#072c37] rounded-3xl border border-[#166479] text-center space-y-6 shadow-xl">
       <div class="max-w-2xl mx-auto space-y-3">
         <h2 class="text-2xl sm:text-3xl font-extrabold text-white">
-          Tertarik Bekerja Sama dengan JakwirCode?
+          {{ $t('about.cta.title') }}
         </h2>
         <p class="text-neutral-300 text-xs sm:text-sm">
-          Mari diskusikan ide proyek atau kebutuhan solusi teknologi Anda bersama tim kami.
+          {{ $t('about.cta.description') }}
         </p>
       </div>
 
@@ -229,7 +229,7 @@ import { RouterLink } from 'vue-router'
           to="/contact" 
           class="inline-block px-8 py-3.5 bg-[#ffc107] hover:bg-[#e0a800] text-neutral-950 font-bold rounded-xl shadow-md transition-colors text-sm"
         >
-          Mulai Diskusi &rarr;
+          {{ $t('about.cta.button') }}
         </RouterLink>
       </div>
     </section>

@@ -133,6 +133,11 @@
           "bio": "Universitas Harkat Negeri 校友。专注于软件工程、移动应用开发、系统优化以及 UI/UX 界面实现。"
         }
       }
+    },
+    "cta": {
+      "title": "准备好开发您的数字项目了吗？",
+      "description": "立即与我们的专家团队咨询您的业务技术需求。",
+      "button": "开始项目讨论"
     }
   },
   "solutions": {

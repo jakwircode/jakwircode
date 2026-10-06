@@ -133,6 +133,11 @@
           "bio": "Universitas Harkat Negeri alumnus. Focuses on software engineering, mobile application development, system optimization, and UI/UX implementation."
         }
       }
+    },
+    "cta": {
+      "title": "Ready to Build Your Digital Project?",
+      "description": "Consult your business tech requirements with our team of experts today.",
+      "button": "Start Project Discussion"
     }
   },
   "solutions": {
