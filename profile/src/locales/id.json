@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "solutions": "Solusi",
+    "products": "Produk",
+    "portfolio": "Portofolio",
+    "about": "Tentang",
+    "contact": "Konsultasi Proyek"
+  },
+  "footer": {
+    "tagline": "Mitra rekayasa perangkat lunak, sistem IoT terintegrasi, dan arsitektur cloud untuk akselerasi bisnis digital Anda.",
+    "navigation": "Navigasi",
+    "focus": "Fokus Solusi",
+    "focus_items": {
+      "software": "Software & Web Development",
+      "mobile": "Mobile App Development",
+      "iot": "IoT & Hardware Integration",
+      "cloud": "Cloud & DevOps Architecture"
+    },
+    "contact_title": "Hubungi Kami",
+    "contact_desc": "Punya ide atau proyek IT yang ingin dikembangkan?",
+    "cta_button": "Mulai Konsultasi",
+    "address": "Tegal, Jawa Tengah, Indonesia",
+    "legal": "Legalitas",
+    "terms": "Syarat & Ketentuan",
+    "privacy": "Kebijakan Privasi",
+    "rights": "Hak cipta dilindungi."
+  },
+  "home": {
+    "hero": {
+      "badge": "Mitra Rekayasa Teknologi & IoT Terpercaya",
+      "title_prefix": "Ubah Ide Kompleks Menjadi Solusi Digital Berkinerja Tinggi Bersama",
+      "subtitle": "JakwirCode menghadirkan aplikasi web modern, mobile apps, sistem IoT terintegrasi, dan arsitektur cloud scalable untuk mengakselerasi pertumbuhan bisnis Anda.",
+      "cta_primary": "Konsultasi Proyek Sekarang",
+      "cta_secondary": "Lihat Portofolio Kami"
+    },
+    "services": {
+      "badge": "Layanan Utama",
+      "title": "Solusi & Bisnis Kami",
+      "subtitle": "Kami menyediakan layanan pengembangan teknologi secara end-to-end yang disesuaikan dengan kebutuhan bisnis Anda.",
+      "web_dev": {
+        "title": "Software & Web Development",
+        "desc": "Pengembangan aplikasi web kustom, sistem informasi enterprise, dan SaaS dengan performa tinggi, aman, dan mudah di-scale."
+      },
+      "mobile_dev": {
+        "title": "Mobile App Development",
+        "desc": "Aplikasi mobile iOS dan Android yang responsif dan intuitif dengan arsitektur modern untuk pengalaman pengguna terbaik."
+      },
+      "iot_dev": {
+        "title": "IoT & Systems Integration",
+        "desc": "Solusi IoT terintegrasi dari sensor hardware, transmisi data real-time, hingga dashboard monitoring dan analitik."
+      },
+      "cloud_dev": {
+        "title": "Cloud & Infrastructure",
+        "desc": "Perancangan arsitektur server, integrasi API, optimalisasi CI/CD, dan manajemen cloud yang stabil serta aman."
+      }
+    },
+    "why_us": {
+      "badge": "Keunggulan Kami",
+      "title": "Mengapa Memilih JakwirCode?",
+      "subtitle": "Komitmen kami adalah memberikan hasil rekayasa teknologi berkualitas tinggi dengan standar industri terbaik.",
+      "items": {
+        "expertise": {
+          "title": "Tim Pengembang Berpengalaman",
+          "desc": "Dikerjakan oleh talenta IT teruji yang berpengalaman dalam arsitektur software dan hardware."
+        },
+        "scalable": {
+          "title": "Arsitektur Scalable & Modern",
+          "desc": "Sistem dibangun menggunakan teknologi terkini yang siap berkembang seiring pertumbuhan bisnis Anda."
+        },
+        "end_to_end": {
+          "title": "Solusi Terintegrasi Hardware & Software",
+          "desc": "Kami mampu menjembatani integrasi antara perangkat fisik (IoT) dan platform perangkat lunak digital."
+        },
+        "support": {
+          "title": "Transparansi & Dukungan Berkelanjutan",
+          "desc": "Proses pengerjaan yang transparan, tepat waktu, serta layanan pemeliharaan sistem pasca-peluncuran."
+        }
+      }
+    },
+    "cta": {
+      "title": "Siap Mengembangkan Proyek Digital Anda?",
+      "subtitle": "Konsultasikan kebutuhan teknologi bisnis Anda bersama tim pakar kami sekarang.",
+      "button": "Mulai Diskusi Proyek"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Tentang JakwirCode",
+      "title": "Menghubungkan Perangkat, Data, dan Pengguna dalam Satu Ekosistem Digital",
+      "subtitle": "Dari semangat kolaborasi di Tegal hingga menjadi mitra rekayasa teknologi tepercaya untuk bisnis dan industri digital."
+    },
+    "history": {
+      "badge": "Perjalanan Kami",
+      "title": "Sejarah & Latar Belakang",
+      "paragraph1": "JakwirCode didirikan pada tahun 2025 oleh tiga lulusan Universitas Harkat Negeri: Fadlian Yusuf sebagai Founder, serta Mohammad Maulana Ikhsan dan Faiz Ahnaf Maulana sebagai Software Engineer. Berawal dari filosofi kata 'Jakwir' dalam bahasa khas Tegal yang berarti 'sahabat dekat', kami membangun kultur kerja berlandaskan transparansi dan kolaborasi yang erat.",
+      "paragraph2": "Sejak awal berdiri, JakwirCode berfokus menghadirkan solusi rekayasa teknologi terpadu yang menjembatani pengembangan perangkat lunak web, aplikasi mobile, integrasi sistem IoT, dan arsitektur cloud untuk mendukung efisiensi serta akselerasi bisnis digital.",
+      "timeline": {
+        "t1_year": "2025",
+        "t1_title": "Pendirian JakwirCode",
+        "t1_desc": "Didirikan oleh tiga alumni Universitas Harkat Negeri (Fadlian Yusuf, Mohammad Maulana Ikhsan, dan Faiz Ahnaf Maulana) dengan fokus pada rekayasa teknologi, IoT, dan web development.",
+        "t2_year": "2026",
+        "t2_title": "Ekspansi Layanan & Produk Agency",
+        "t2_desc": "Memperluas portofolio solusi IT ke skala enterprise, aplikasi mobile cross-platform, integrasi sensor hardware, dan arsitektur cloud."
+      }
+    },
+    "vision_mission": {
+      "vision_title": "Visi Kami",
+      "vision_desc": "Menjadi mitra teknologi pilihan utama yang mampu menjembatani dunia fisik dan digital melalui inovasi software dan hardware berstandar global.",
+      "mission_title": "Misi Kami",
+      "m1": "Mengembangkan perangkat lunak dan sistem IoT berkinerja tinggi, aman, dan scalable.",
+      "m2": "Menghadirkan komunikasi dan proses kerja transparan berbasis kolaborasi sahabat (Jakwir mentality).",
+      "m3": "Mendorong efisiensi bisnis klien melalui otomatisasi dan integrasi teknologi tepat guna."
+    },
+    "team": {
+      "badge": "Tim Inti",
+      "title": "Pendiri & Tim Inti JakwirCode",
+      "subtitle": "Kolaborasi tiga founder alumni Universitas Harkat Negeri yang mendedikasikan keahlian di bidang software engineering, hardware IoT, dan arsitektur sistem.",
+      "members": {
+        "fadlian": {
+          "name": "Fadlian Yusuf",
+          "role": "Founder & Tech Lead",
+          "bio": "Alumni Universitas Harkat Negeri. Mengarahakn visi teknologi perusahaan, arsitektur sistem IoT, integrasi hardware/sensor, dan infrastruktur cloud backend."
+        },
+        "ikhsan": {
+          "name": "Mohammad Maulana Ikhsan",
+          "role": "Software Engineer 1",
+          "bio": "Alumni Universitas Harkat Negeri. Spesialis dalam pengembangan aplikasi web modern, frontend architecture, integrasi API, dan manajemen database."
+        },
+        "faiz": {
+          "name": "Faiz Ahnaf Maulana",
+          "role": "Software Engineer 2",
+          "bio": "Alumni Universitas Harkat Negeri. Berfokus pada rekayasa perangkat lunak, pengembangan aplikasi mobile, optimalisasi sistem, dan UI/UX implementation."
+        }
+      }
+    }
+  },
+  "solutions": {
+    "badge": "Layanan Utama",
+    "title": "Solusi Rekayasa Teknologi Terpadu",
+    "subtitle": "Cari dan temukan layanan profesional kami yang sesuai dengan kebutuhan transformasi digital bisnis Anda.",
+    "search_placeholder": "Cari solusi (misal: IoT, Web, Mobile, Cloud)...",
+    "empty_search_title": "Solusi tidak ditemukan",
+    "empty_search_desc": "Tidak ada layanan yang cocok dengan kata kunci",
+    "empty_db_title": "Solusi Sedang Diperbarui",
+    "empty_db_desc": "Katalog layanan kami sedang disiapkan. Butuh solusi IT kustom atau diskusi kebutuhan khusus? Tim kami siap membantu.",
+    "reset_search": "Reset Pencarian",
+    "custom_consult": "Konsultasi Kustom",
+    "reload": "Muat Ulang",
+    "discuss_solution": "Diskusi Solusi Ini"
+  },
+  "products": {
+    "badge": "Produk Digital",
+    "title": "Produk Digital & Sistem Siap Pakai",
+    "subtitle": "Jelajahi ekosistem perangkat lunak, modul IoT, dan platform siap pakai buatan JakwirCode.",
+    "search_placeholder": "Cari produk (misal: Monitoring, Starter Kit, Mobile)...",
+    "empty_search_title": "Produk tidak ditemukan",
+    "empty_search_desc": "Tidak ada produk yang cocok dengan kata kunci",
+    "empty_db_title": "Katalog Produk Sedang Disiapkan",
+    "empty_db_desc": "Kami sedang memperbarui daftar produk digital dan sistem modul kami. Ingin memesan sistem kustom untuk bisnis Anda?",
+    "order_custom": "Pesan Sistem Kustom",
+    "inquire_product": "Tanya Produk Ini",
+    "live_demo": "Live Demo",
+    "reload": "Muat Ulang",
+    "custom_order": "Pesan Sistem Kustom",
+    "reset_search": "Reset Pencarian"
+  },
+  "portfolio": {
+    "badge": "Portofolio Kami",
+    "title": "Studi Kasus & Portofolio Proyek",
+    "subtitle": "Lihat rekam jejak implementasi solusi teknologi yang telah kami kembangkan untuk berbagai industri.",
+    "search_placeholder": "Cari karya (misal: Flutter, LoRa, Dashboard, Vue)...",
+    "categories": {
+      "all": "Semua",
+      "web": "Web & SaaS",
+      "mobile": "Mobile App",
+      "iot": "IoT & Embedded",
+      "cloud": "Cloud & Infra"
+    },
+    "empty_search_title": "Portofolio Tidak Ditemukan",
+    "empty_search_desc": "Tidak ada proyek yang sesuai dengan kriteria filter atau kata kunci Anda.",
+    "empty_db_title": "Portofolio Sedang Diperbarui",
+    "empty_db_desc": "Daftar proyek dan studi kasus kami sedang dirapikan. Punya kebutuhan proyek IT yang ingin dikembangkan?",
+    "reset_filters": "Reset Semua Filter",
+    "reset_search": "Reset Pencarian",
+    "build_like_this": "Buat Seperti Ini",
+    "visit_link": "Kunjungi Tautan",
+    "reload": "Muat Ulang",
+    "custom_order": "Mulai Diskusi Proyek"
+  },
+  "contact": {
+    "badge": "Hubungi Kami",
+    "title": "Mulai Diskusi Proyek Anda",
+    "subtitle": "Tim JakwirCode siap membantu menjawab pertanyaan, memberikan estimasi biaya, atau mendiskusikan kebutuhan solusi teknologi Anda.",
+    "form": {
+      "title": "Kirim Pesan WhatsApp",
+      "name_label": "Nama Lengkap",
+      "name_placeholder": "Masukkan nama Anda",
+      "email_label": "Email",
+      "email_placeholder": "nama@perusahaan.com",
+      "subject_label": "Layanan / Subjek Proyek",
+      "subject_placeholder": "Pilih atau ketik topik proyek",
+      "message_label": "Rincian Kebutuhan",
+      "message_placeholder": "Jelaskan ide proyek, fitur yang dibutuhkan, atau pertanyaan Anda...",
+      "submit_button": "Kirim via WhatsApp"
+    },
+    "info": {
+      "title": "Informasi Kontak & Respon Cepat",
+      "subtitle": "Anda juga dapat menghubungi kami secara langsung melalui saluran berikut:",
+      "wa_direct": "WhatsApp Direct",
+      "wa_desc": "Respon cepat pada jam kerja",
+      "email_direct": "Email Resmi",
+      "location": "Lokasi Kantor",
+      "location_desc": "Tegal & Slawi, Jawa Tengah, Indonesia",
+      "hours": "Jam Operasional",
+      "hours_desc": "Senin - Sabtu: 08.00 - 17.00 WIB"
+    }
+  },
+  "terms": {
+    "badge": "Legal & Regulasi",
+    "title": "Syarat & Ketentuan Layanan",
+    "last_updated": "Terakhir Diperbarui: 15 Januari 2026",
+    "intro": "Selamat datang di JakwirCode. Dengan mengakses situs web kami atau menggunakan layanan rekayasa perangkat lunak, sistem IoT, dan konsultasi teknologi yang kami sediakan, Anda menyetujui untuk terikat oleh Syarat dan Ketentuan berikut.",
+    "s1_title": "1. Ketentuan Umum & Cakupan Layanan",
+    "s1_p1": "JakwirCode menyediakan layanan rekayasa perangkat lunak web, aplikasi mobile, integrasi sistem tertanam (IoT), dan manajemen infrastruktur cloud berdasarkan kesepakatan tertulis (Proposal / Kontrak Kerja / Statement of Work) dengan Klien.",
+    "s2_title": "2. Hak Kekayaan Intelektual (IP)",
+    "s2_p1": "Seluruh hak cipta atas kode sumber (source code), desain antarmuka, dan dokumentasi sistem yang dibuat khusus untuk Klien akan beralih sepenuhnya kepada Klien setelah seluruh kewajiban pembayaran dilunasi.",
+    "s2_p2": "JakwirCode mempertahankan hak atas pustaka dasar (core libraries), modul internal, dan komponen reusable yang digunakan dalam pengerjaan proyek.",
+    "s3_title": "3. Pembayaran & Kerangka Kerja",
+    "s3_p1": "Pembayaran dilakukan sesuai termin yang disepakati pada kontrak kerja. Pekerjaan akan dimulai setelah pembayaran uang muka (Down Payment) diterima.",
+    "s3_p2": "Keterlambatan pembayaran dapat mengakibatkan penundaan jadwal pengerjaan proyek atau penangguhan akses layanan sementara.",
+    "s4_title": "4. Garansi & Pemeliharaan Sistem",
+    "s4_p1": "JakwirCode memberikan garansi perbaikan bug/error secara gratis selama jangka waktu yang disepakati (umumnya 30 hingga 90 hari) setelah serah terima proyek (Handover).",
+    "s4_p2": "Garansi tidak berlaku apabila timbul kerusakan yang disebabkan oleh modifikasi pihak ketiga tanpa persetujuan JakwirCode, serangan siber di luar cakupan perlindungan standar, atau kesalahan penggunaan oleh Klien.",
+    "s5_title": "5. Kerahasiaan Data (NDA)",
+    "s5_p1": "Kami berkomitmen untuk menjaga kerahasiaan seluruh informasi bisnis, data sensor, logika aplikasi, dan rahasia dagang milik Klien yang dipercayakan kepada kami selama maupun setelah masa pengerjaan proyek.",
+    "s6_title": "6. Batasan Tanggung Jawab",
+    "s6_p1": "JakwirCode tidak bertanggung jawab atas kerugian tidak langsung, kehilangan keuntungan bisnis, atau gangguan operasional akibat kejadian di luar kendali wajar (Force Majeure) seperti bencana alam atau kegagalan penyedia infrastruktur pihak ketiga.",
+    "footer": "Ada pertanyaan seputar legalitas & persyaratan layanan?",
+    "footer_link": "Hubungi Tim Legal JakwirCode"
+  },
+  "privacy": {
+    "badge": "Legal & Privasi Data",
+    "title": "Kebijakan Privasi",
+    "last_updated": "Terakhir Diperbarui: 15 Januari 2026",
+    "intro": "JakwirCode berkomitmen untuk melindungi privasi dan keamanan data pribadi serta informasi bisnis pengguna situs web dan klien kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, menyimpan, dan melindungi data Anda.",
+    "s1_title": "1. Informasi yang Kami Kumpulkan",
+    "s1_p1": "Kami mengumpulkan informasi yang Anda berikan secara langsung saat mengisi formulir kontak, melakukan konsultasi proyek, atau berlangganan layanan kami. Informasi ini meliputi nama, alamat email, nomor telepon/WhatsApp, nama perusahaan, serta rincian kebutuhan proyek.",
+    "s1_p2": "Untuk sistem IoT dan aplikasi web/mobile yang kami kembangkan, pengumpulan telemetry data sensor atau log aktivitas hanya dilakukan sesuai izin eksplisit dalam kesepakatan lisensi dan layanan.",
+    "s2_title": "2. Penggunaan Informasi",
+    "s2_p1": "Informasi yang dikumpulkan digunakan semata-mata untuk merespons permintaan konsultasi, memberikan estimasi biaya, menjalankan kontrak pengerjaan proyek, mengoptimalkan performa aplikasi, serta memberikan dukungan teknis pasca-peluncuran.",
+    "s2_p2": "Kami tidak menjual, menyewakan, atau mendistribusikan data pribadi atau data bisnis Anda kepada pihak ketiga untuk keperluan pemasaran.",
+    "s3_title": "3. Keamanan & Penyimpanan Data",
+    "s3_p1": "Kami menerapkan standar keamanan industri, termasuk enkripsi data saat transit (SSL/TLS), perlindungan akses berbasis peran (Row Level Security / RLS pada Supabase), serta prosedur enkripsi kredensial untuk menjaga kerahasiaan sistem Anda.",
+    "s4_title": "4. Penggunaan Cookie & Analitik",
+    "s4_p1": "Situs web kami dapat menggunakan cookie esensial untuk menyimpan preferensi bahasa dan sesi pengguna agar pengalaman navigasi lebih optimal. Kami tidak menggunakan cookie pelacak pihak ketiga yang merusak privasi.",
+    "s5_title": "5. Hak Pengguna atas Data",
+    "s5_p1": "Anda berhak untuk meminta akses, pembaruan, atau penghapusan data pribadi Anda yang tersimpan di sistem kami kapan saja dengan menghubungi tim privasi kami.",
+    "s6_title": "6. Perubahan Kebijakan Privasi",
+    "s6_p1": "JakwirCode berhak memperbarui Kebijakan Privasi ini sewaktu-waktu. Perubahan signifikan akan diumumkan melalui pembaruan tanggal di halaman ini.",
+    "footer": "Ingin mengajukan permintaan penghapusan data atau pertanyaan privasi?",
+    "footer_link": "Hubungi Tim Privasi JakwirCode"
+  }
+}

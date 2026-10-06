@@ -1,0 +1,263 @@
+{
+  "nav": {
+    "home": "首页",
+    "solutions": "解决方案",
+    "products": "产品",
+    "portfolio": "作品集",
+    "about": "关于我们",
+    "contact": "项目咨询"
+  },
+  "footer": {
+    "tagline": "您的软件工程、集成物联网系统与云基础设施架构合作伙伴，助力数字业务加速。",
+    "navigation": "导航",
+    "focus": "核心解决方案",
+    "focus_items": {
+      "software": "软件与 Web 开发",
+      "mobile": "移动应用开发",
+      "iot": "物联网与硬件集成",
+      "cloud": "云与 DevOps 架构"
+    },
+    "contact_title": "联系我们",
+    "contact_desc": "有想要开发的 IT 项目或想法？",
+    "cta_button": "开始咨询",
+    "address": "印度尼西亚中爪哇省铁加罗",
+    "legal": "法律条款",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "rights": "保留所有权利。"
+  },
+  "home": {
+    "hero": {
+      "badge": "值得信赖的软件与物联网工程合作伙伴",
+      "title_prefix": "与我们一起将复杂想法转化为高性能数字解决方案：",
+      "subtitle": "JakwirCode 提供现代 Web 平台、移动应用、集成物联网系统和可扩展云架构，助力您的业务飞速增长。",
+      "cta_primary": "立即咨询项目",
+      "cta_secondary": "浏览作品集"
+    },
+    "services": {
+      "badge": "核心服务",
+      "title": "我们的业务与解决方案",
+      "subtitle": "根据您的业务需求量身定制的端到端技术开发服务。",
+      "web_dev": {
+        "title": "软件与 Web 开发",
+        "desc": "定制 Web 应用程序、企业信息系统以及高性能、安全且易于扩展的 SaaS 解决方案。"
+      },
+      "mobile_dev": {
+        "title": "移动应用开发",
+        "desc": "基于现代架构构建的高响应、直观的 iOS 和 Android 跨平台移动应用。"
+      },
+      "iot_dev": {
+        "title": "物联网与系统集成",
+        "desc": "从硬件传感器、实时数据传输到监控分析仪表 epicenter 的集成物联网解决方案。"
+      },
+      "cloud_dev": {
+        "title": "云与基础设施",
+        "desc": "服务器架构设计、API 集成、CI/CD 优化以及稳定安全的云管理。"
+      }
+    },
+    "why_us": {
+      "badge": "我们的优势",
+      "title": "为什么选择 JakwirCode？",
+      "subtitle": "我们的承诺是遵循最高行业标准，交付高质量的技术工程。",
+      "items": {
+        "expertise": {
+          "title": "经验丰富的开发团队",
+          "desc": "由在软件和硬件架构方面拥有丰富经验的技术人才打造。"
+        },
+        "scalable": {
+          "title": "可扩展 Modern 架构",
+          "desc": "采用最新技术构建，随您的业务增长而随时扩展。"
+        },
+        "end_to_end": {
+          "title": "软硬件一体化集成",
+          "desc": "无缝连接物理设备（物联网）与数字软件平台。"
+        },
+        "support": {
+          "title": "透明流程与持续支持",
+          "desc": "透明的工作流程、按时交付以及可靠的上线后维护支持。"
+        }
+      }
+    },
+    "cta": {
+      "title": "准备好开发您的数字项目了吗？",
+      "subtitle": "立即与我们的专家团队咨询您的业务技术需求。",
+      "button": "开始项目讨论"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "关于 JakwirCode",
+      "title": "在一个数字生态系统中连接设备、数据与用户",
+      "subtitle": "从铁加罗本地的合作起点，成长为数字企业与工业领域值得信赖的技术工程合作伙伴。"
+    },
+    "history": {
+      "badge": "我们的历程",
+      "title": "历史与背景",
+      "paragraph1": "JakwirCode 于 2025 年由来自 Universitas Harkat Negeri 的三位毕业生共同创立：Fadlian Yusuf 担任创始人，Mohammad Maulana Ikhsan 和 Faiz Ahnaf Maulana 担任软件工程师。受铁加罗方言中“Jakwir”（挚友）哲学的启发，我们建立了以透明和紧密合作为核心的工作文化。",
+      "paragraph2": "自成立以来，JakwirCode 专注于提供一体化的技术工程解决方案，涵盖 Web 软件开发、移动应用、物联网系统集成和云架构，以提升数字业务效率。",
+      "timeline": {
+        "t1_year": "2025",
+        "t1_title": "JakwirCode 正式成立",
+        "t1_desc": "由 Universitas Harkat Negeri 的三位校友（Fadlian Yusuf、Mohammad Maulana Ikhsan 和 Faiz Ahnaf Maulana）共同创立，专注于软件工程、物联网和 Web 开发。",
+        "t2_year": "2026",
+        "t2_title": "服务与机构业务扩展",
+        "t2_desc": "将项目组合扩展至企业级软件解决方案、跨平台移动应用、硬件传感器集成与云架构。"
+      }
+    },
+    "vision_mission": {
+      "vision_title": "我们的愿景",
+      "vision_desc": "成为首选的技术工程合作伙伴，通过全球标准的软硬件创新连接物理世界与数字世界。",
+      "mission_title": "我们的使命",
+      "m1": "构建高性能、安全且可扩展的软件与物联网系统。",
+      "m2": "基于友好合作（Jakwir 精神）提供透明的沟通与工作流程。",
+      "m3": "通过自动化和精准的技术集成提升客户业务效率。"
+    },
+    "team": {
+      "badge": "核心团队",
+      "title": "创始人与核心团队",
+      "subtitle": "三位毕业于 Universitas Harkat Negeri 的联合创始人紧密合作，致力于软件工程、物联网硬件和系统架构领域。",
+      "members": {
+        "fadlian": {
+          "name": "Fadlian Yusuf",
+          "role": "Founder & Tech Lead",
+          "bio": "Universitas Harkat Negeri 校友。主导公司技术愿景、物联网系统架构、硬件/传感器集成以及云后端基础设施。"
+        },
+        "ikhsan": {
+          "name": "Mohammad Maulana Ikhsan",
+          "role": "Software Engineer 1",
+          "bio": "Universitas Harkat Negeri 校友。专注于现代 Web 应用开发、前端架构、API 集成和数据库管理。"
+        },
+        "faiz": {
+          "name": "Faiz Ahnaf Maulana",
+          "role": "Software Engineer 2",
+          "bio": "Universitas Harkat Negeri 校友。专注于软件工程、移动应用开发、系统优化以及 UI/UX 界面实现。"
+        }
+      }
+    }
+  },
+  "solutions": {
+    "badge": "核心服务",
+    "title": "一体化技术解决方案",
+    "subtitle": "搜索并探索满足您数字化转型需求的专业服务。",
+    "search_placeholder": "搜索解决方案（如：物联网、Web、移动端、云端）...",
+    "empty_search_title": "未找到解决方案",
+    "empty_search_desc": "没有匹配该关键字的服务",
+    "empty_db_title": "解决方案正在更新中",
+    "empty_db_desc": "我们的服务目录正在准备中。需要定制 IT 解决方案或讨论特定需求？我们的团队随时为您提供帮助。",
+    "reset_search": "重置搜索",
+    "custom_consult": "定制咨询",
+    "reload": "重新加载",
+    "discuss_solution": "讨论此解决方案"
+  },
+  "products": {
+    "badge": "数字产品",
+    "title": "数字产品与现成系统",
+    "subtitle": "探索由 JakwirCode 构建的软件生态系统、物联网模块和即插即用平台。",
+    "search_placeholder": "搜索产品（如：监控、入门套件、移动端）...",
+    "empty_search_title": "未找到产品",
+    "empty_search_desc": "没有匹配该关键字的产品",
+    "empty_db_title": "产品目录准备中",
+    "empty_db_desc": "我们正在更新数字产品和模块系统列表。想为您的业务订制系统吗？",
+    "order_custom": "订制系统",
+    "inquire_product": "咨询此产品",
+    "live_demo": "在线演示",
+    "reload": "重新加载",
+    "custom_order": "订制系统",
+    "reset_search": "重置搜索"
+  },
+  "portfolio": {
+    "badge": "我们的作品集",
+    "title": "案例研究与项目作品集",
+    "subtitle": "查看我们在各个行业开发的技术解决方案的实施记录。",
+    "search_placeholder": "搜索作品（如：Flutter、LoRa、仪表板、Vue）...",
+    "categories": {
+      "all": "全部",
+      "web": "Web 与 SaaS",
+      "mobile": "移动应用",
+      "iot": "物联网与嵌入式",
+      "cloud": "云与基础设施"
+    },
+    "empty_search_title": "未找到作品集",
+    "empty_search_desc": "没有与您的筛选条件或关键字匹配的项目。",
+    "empty_db_title": "作品集正在更新中",
+    "empty_db_desc": "我们的项目列表和案例研究正在整理中。有需要开发的 IT 项目吗？",
+    "reset_filters": "重置所有筛选",
+    "build_like_this": "构建类似项目",
+    "visit_link": "访问链接",
+    "reload": "重新加载",
+    "custom_order": "开始项目讨论"
+  },
+  "contact": {
+    "badge": "联系我们",
+    "title": "开始讨论您的项目",
+    "subtitle": "JakwirCode 团队随时准备回答疑问、提供费用估算或讨论您的技术解决方案需求。",
+    "form": {
+      "title": "发送 WhatsApp 消息",
+      "name_label": "姓名",
+      "name_placeholder": "输入您的姓名",
+      "email_label": "电子邮件",
+      "email_placeholder": "name@company.com",
+      "subject_label": "服务 / 项目主题",
+      "subject_placeholder": "选择或输入项目主题",
+      "message_label": "需求详情",
+      "message_placeholder": "描述您的项目想法、所需功能或问题...",
+      "submit_button": "通过 WhatsApp 发送"
+    },
+    "info": {
+      "title": "直接联系与快速响应",
+      "subtitle": "您也可以通过以下渠道直接与我们联系：",
+      "wa_direct": "WhatsApp 直连",
+      "wa_desc": "工作时间内快速响应",
+      "email_direct": "官方邮箱",
+      "location": "办公地点",
+      "location_desc": "印度尼西亚中爪哇省 Tegal 与 Slawi",
+      "hours": "工作时间",
+      "hours_desc": "星期一 - 星期六: 08:00 - 17:00 WIB"
+    }
+  },
+  "terms": {
+    "badge": "法律与监管",
+    "title": "服务条款",
+    "last_updated": "最后更新日期：2026年1月15日",
+    "intro": "欢迎来到 JakwirCode。通过访问我们的网站或使用我们提供的软件工程、物联网系统与技术咨询服务，即表示您同意受以下服务条款的约束。",
+    "s1_title": "1. 通则与服务范围",
+    "s1_p1": "JakwirCode 根据与客户达成的书面协议（协议/合同/工作说明书）提供定制 Web 软件工程、移动应用、嵌入式物联网系统集成与云基础设施管理服务。",
+    "s2_title": "2. 知识产权 (IP)",
+    "s2_p1": "在客户结清全部款项后，专门为客户定制开发源代码、UI 设计和系统文档的完整著作权将转移给客户。",
+    "s2_p2": "JakwirCode 保留在项目执行过程中使用的核心库、内部模块和可复用组件的所有权。",
+    "s3_title": "3. 付款条款与流程",
+    "s3_p1": "付款按照合同约定的阶段进行。工作将在收到首期首付款后启动。",
+    "s3_p2": "逾期付款可能导致项目进度延迟或暂停服务。",
+    "s4_title": "4. 保修与系统维护",
+    "s4_p1": "JakwirCode 在项目正式交付后提供约定期限内（通常为 30 至 90 天）的免费 Bug 修复保修。",
+    "s4_p2": "若故障系因未经授权的第三方修改、超出协议范围的网络攻击或客户误操作引起，则保修失效。",
+    "s5_title": "5. 保密条款 (NDA)",
+    "s5_p1": "我们承诺对在项目期间或项目结束后委托给我们的所有商业信息、传感器数据、应用逻辑和商业秘密严格保密。",
+    "s6_title": "6. 责任限制",
+    "s6_p1": "JakwirCode 对因不可抗力事件或第三方基础设施故障导致的间接损失、利润损失或运营中断不承担责任。",
+    "footer": "有关于法律与服务条款的疑问？",
+    "footer_link": "联系 JakwirCode 法律团队"
+  },
+  "privacy": {
+    "badge": "法律与数据隐私",
+    "title": "隐私政策",
+    "last_updated": "最后更新日期：2026年1月15日",
+    "intro": "JakwirCode 致力于保护我们网站用户和客户的个人数据与商业信息的隐私与安全。本隐私政策说明了我们如何收集、使用、存储和保护您的数据。",
+    "s1_title": "1. 我们收集的信息",
+    "s1_p1": "我们收集您在填写联系表单、进行项目咨询或订阅我们的服务时直接提供的信息。这包括您的姓名、电子邮件地址、电话/WhatsApp 号码、公司名称以及项目需求详情。",
+    "s1_p2": "对于我们开发的物联网系统和 Web/移动应用程序，传感器遥测数据或活动日志的收集仅严格按照服务协议中的明确许可进行。",
+    "s2_title": "2. 信息的使用",
+    "s2_p1": "收集的信息仅用于响应咨询请求、提供费用估算、执行项目合同、优化应用性能以及提供上线后的技术支持。",
+    "s2_p2": "我们不会为了营销目的向第三方出售、出租或分发您的个人或商业数据。",
+    "s3_title": "3. 数据安全与存储",
+    "s3_p1": "我们实施行业标准的安全措施，包括传输中数据加密 (SSL/TLS)、基于角色的访问控制 (Supabase 上的行级安全 / RLS) 以及凭据加密，以保护您的系统保密性。",
+    "s4_title": "4. Cookie 与分析",
+    "s4_p1": "我们的网站可能会使用必要的 Cookie 来存储语言偏好和用户会话，以提供最佳的浏览体验。我们不使用侵犯隐私的第三方跟踪 Cookie。",
+    "s5_title": "5. 您的数据权利",
+    "s5_p1": "您有权随时通过联系我们的隐私团队，要求查阅、更新或删除存储在我们系统中的个人数据。",
+    "s6_title": "6. 隐私政策的变更",
+    "s6_p1": "JakwirCode 保留随时更新本隐私政策的权利。重大变更将通过更新本页面上的日期进行提示。",
+    "footer": "想要请求数据删除或有隐私问题？",
+    "footer_link": "联系 JakwirCode 隐私团队"
+  }
+}

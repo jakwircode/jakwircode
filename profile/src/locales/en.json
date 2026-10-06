@@ -1,0 +1,263 @@
+{
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "products": "Products",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Get Consultation"
+  },
+  "footer": {
+    "tagline": "Your partner in software engineering, integrated IoT systems, and cloud infrastructure architecture for digital business acceleration.",
+    "navigation": "Navigation",
+    "focus": "Solutions Focus",
+    "focus_items": {
+      "software": "Software & Web Development",
+      "mobile": "Mobile App Development",
+      "iot": "IoT & Hardware Integration",
+      "cloud": "Cloud & DevOps Architecture"
+    },
+    "contact_title": "Contact Us",
+    "contact_desc": "Have an IT project or idea you want to build?",
+    "cta_button": "Start Consultation",
+    "address": "Tegal, Central Java, Indonesia",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "badge": "Trusted Software & IoT Engineering Partner",
+      "title_prefix": "Transform Complex Ideas into High-Performance Digital Solutions with",
+      "subtitle": "JakwirCode delivers modern web platforms, mobile apps, integrated IoT systems, and scalable cloud infrastructure to power your business growth.",
+      "cta_primary": "Consult Your Project",
+      "cta_secondary": "Explore Our Portfolio"
+    },
+    "services": {
+      "badge": "Core Services",
+      "title": "Our Business & Solutions",
+      "subtitle": "End-to-end technology development services tailored to your specific business requirements.",
+      "web_dev": {
+        "title": "Software & Web Development",
+        "desc": "Custom web applications, enterprise information systems, and scalable, secure SaaS solutions."
+      },
+      "mobile_dev": {
+        "title": "Mobile App Development",
+        "desc": "Responsive and intuitive cross-platform mobile apps for iOS and Android built on modern architecture."
+      },
+      "iot_dev": {
+        "title": "IoT & Systems Integration",
+        "desc": "Integrated IoT solutions from physical sensors and real-time data transmission to monitoring analytics dashboards."
+      },
+      "cloud_dev": {
+        "title": "Cloud & Infrastructure",
+        "desc": "Server architecture design, API integration, CI/CD pipeline, and stable, secure cloud management."
+      }
+    },
+    "why_us": {
+      "badge": "Why Us",
+      "title": "Why Choose JakwirCode?",
+      "subtitle": "Our commitment is delivering high-quality tech engineering adhering to the highest industry standards.",
+      "items": {
+        "expertise": {
+          "title": "Experienced Engineering Team",
+          "desc": "Handled by skilled developers experienced in both software and hardware architecture."
+        },
+        "scalable": {
+          "title": "Scalable & Modern Architecture",
+          "desc": "Systems built on cutting-edge stacks ready to scale alongside your business expansion."
+        },
+        "end_to_end": {
+          "title": "Hardware & Software Integration",
+          "desc": "Seamlessly bridging physical devices (IoT) with digital software platforms."
+        },
+        "support": {
+          "title": "Transparency & Ongoing Support",
+          "desc": "Transparent workflows, on-time delivery, and reliable post-launch maintenance support."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Build Your Digital Project?",
+      "subtitle": "Consult your business tech requirements with our team of experts today.",
+      "button": "Start Project Discussion"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "About JakwirCode",
+      "title": "Connecting Devices, Data, and Users in One Digital Ecosystem",
+      "subtitle": "From collaborative roots in Tegal to becoming a trusted technology engineering partner for digital businesses and industries."
+    },
+    "history": {
+      "badge": "Our Journey",
+      "title": "History & Background",
+      "paragraph1": "JakwirCode was founded in 2025 by three graduates of Universitas Harkat Negeri: Fadlian Yusuf as Founder, along with Mohammad Maulana Ikhsan and Faiz Ahnaf Maulana as Software Engineers. Inspired by the 'Jakwir' (close friend) philosophy from Tegal dialect, we built a culture centered on transparency and close collaboration.",
+      "paragraph2": "Since its inception, JakwirCode has focused on providing integrated tech engineering solutions bridging web software development, mobile apps, IoT systems integration, and cloud architecture to drive digital business efficiency.",
+      "timeline": {
+        "t1_year": "2025",
+        "t1_title": "Founding of JakwirCode",
+        "t1_desc": "Established by three Universitas Harkat Negeri alumni (Fadlian Yusuf, Mohammad Maulana Ikhsan, and Faiz Ahnaf Maulana) focusing on software engineering, IoT, and web development.",
+        "t2_year": "2026",
+        "t2_title": "Service & Agency Expansion",
+        "t2_desc": "Expanded portfolio into enterprise software solutions, cross-platform mobile apps, hardware sensor integration, and cloud architecture."
+      }
+    },
+    "vision_mission": {
+      "vision_title": "Our Vision",
+      "vision_desc": "To be the preferred tech engineering partner bridging the physical and digital worlds through global-standard software and hardware innovation.",
+      "mission_title": "Our Mission",
+      "m1": "Build high-performance, secure, and scalable software and IoT systems.",
+      "m2": "Provide transparent communication and workflow based on friendly collaboration (Jakwir mentality).",
+      "m3": "Drive client business efficiency through automation and targeted technology integration."
+    },
+    "team": {
+      "badge": "Core Team",
+      "title": "Founders & Core Team",
+      "subtitle": "A collaboration of three founders and Universitas Harkat Negeri alumni dedicated to software engineering, IoT hardware, and system architecture.",
+      "members": {
+        "fadlian": {
+          "name": "Fadlian Yusuf",
+          "role": "Founder & Tech Lead",
+          "bio": "Universitas Harkat Negeri alumnus. Leads company tech vision, IoT system architecture, hardware/sensor integration, and cloud backend infrastructure."
+        },
+        "ikhsan": {
+          "name": "Mohammad Maulana Ikhsan",
+          "role": "Software Engineer 1",
+          "bio": "Universitas Harkat Negeri alumnus. Specializes in modern web application development, frontend architecture, API integration, and database management."
+        },
+        "faiz": {
+          "name": "Faiz Ahnaf Maulana",
+          "role": "Software Engineer 2",
+          "bio": "Universitas Harkat Negeri alumnus. Focuses on software engineering, mobile application development, system optimization, and UI/UX implementation."
+        }
+      }
+    }
+  },
+  "solutions": {
+    "badge": "Core Services",
+    "title": "Integrated Technology Solutions",
+    "subtitle": "Search and discover our professional services tailored to your digital transformation needs.",
+    "search_placeholder": "Search solutions (e.g. IoT, Web, Mobile, Cloud)...",
+    "empty_search_title": "No solutions found",
+    "empty_search_desc": "No services matched the keyword",
+    "empty_db_title": "Solutions Currently Being Updated",
+    "empty_db_desc": "Our service catalog is being prepared. Need a custom IT solution or tailored discussion? Our team is ready to help.",
+    "reset_search": "Reset Search",
+    "custom_consult": "Custom Consultation",
+    "reload": "Reload",
+    "discuss_solution": "Discuss This Solution"
+  },
+  "products": {
+    "badge": "Digital Products",
+    "title": "Digital Products & Ready-to-Use Systems",
+    "subtitle": "Explore software ecosystems, IoT modules, and turn-key platforms built by JakwirCode.",
+    "search_placeholder": "Search products (e.g. Monitoring, Starter Kit, Mobile)...",
+    "empty_search_title": "No products found",
+    "empty_search_desc": "No products matched the keyword",
+    "empty_db_title": "Product Catalog Being Prepared",
+    "empty_db_desc": "We are updating our list of digital products and module systems. Want to order a custom system for your business?",
+    "order_custom": "Order Custom System",
+    "inquire_product": "Inquire About Product",
+    "live_demo": "Live Demo",
+    "reload": "Reload",
+    "custom_order": "Order Custom System",
+    "reset_search": "Reset Search"
+  },
+  "portfolio": {
+    "badge": "Our Portfolio",
+    "title": "Case Studies & Project Portfolio",
+    "subtitle": "Explore our track record of technology implementations developed across various industries.",
+    "search_placeholder": "Search work (e.g. Flutter, LoRa, Dashboard, Vue)...",
+    "categories": {
+      "all": "All",
+      "web": "Web & SaaS",
+      "mobile": "Mobile App",
+      "iot": "IoT & Embedded",
+      "cloud": "Cloud & Infra"
+    },
+    "empty_search_title": "Portfolio Not Found",
+    "empty_search_desc": "No projects match your filter criteria or search keyword.",
+    "empty_db_title": "Portfolio Being Updated",
+    "empty_db_desc": "Our project list and case studies are currently being curated. Have an IT project to build?",
+    "reset_filters": "Reset All Filters",
+    "build_like_this": "Build Something Like This",
+    "visit_link": "Visit Link",
+    "reload": "Reload",
+    "custom_order": "Start Project Discussion"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "Start Your Project Discussion",
+    "subtitle": "JakwirCode team is ready to answer questions, provide cost estimates, or discuss your technology solution needs.",
+    "form": {
+      "title": "Send WhatsApp Message",
+      "name_label": "Full Name",
+      "name_placeholder": "Enter your name",
+      "email_label": "Email Address",
+      "email_placeholder": "name@company.com",
+      "subject_label": "Service / Project Subject",
+      "subject_placeholder": "Select or type project topic",
+      "message_label": "Requirement Details",
+      "message_placeholder": "Describe your project idea, required features, or questions...",
+      "submit_button": "Send via WhatsApp"
+    },
+    "info": {
+      "title": "Direct Contact & Fast Response",
+      "subtitle": "You can also reach out to us directly through the following channels:",
+      "wa_direct": "Direct WhatsApp",
+      "wa_desc": "Quick response during working hours",
+      "email_direct": "Official Email",
+      "location": "Office Location",
+      "location_desc": "Tegal & Slawi, Central Java, Indonesia",
+      "hours": "Working Hours",
+      "hours_desc": "Monday - Saturday: 08:00 - 17:00 WIB"
+    }
+  },
+  "terms": {
+    "badge": "Legal & Regulatory",
+    "title": "Terms of Service",
+    "last_updated": "Last Updated: January 15, 2026",
+    "intro": "Welcome to JakwirCode. By accessing our website or utilizing our software engineering, IoT systems, and technology consulting services, you agree to be bound by the following Terms and Conditions.",
+    "s1_title": "1. General Provisions & Service Scope",
+    "s1_p1": "JakwirCode provides custom web software engineering, mobile applications, embedded IoT systems integration, and cloud infrastructure management based on written agreements (Proposal / Contract / Statement of Work) with the Client.",
+    "s2_title": "2. Intellectual Property Rights (IP)",
+    "s2_p1": "Full copyright ownership of source code, UI designs, and documentation custom-built for the Client transfers to the Client upon full payment settlement.",
+    "s2_p2": "JakwirCode retains rights over core libraries, internal modules, and reusable components utilized during project execution.",
+    "s3_title": "3. Payment Terms & Milestones",
+    "s3_p1": "Payments are structured according to milestones agreed upon in the contract. Work commences upon receipt of the initial Down Payment.",
+    "s3_p2": "Delayed payments may result in project timeline adjustments or temporary service suspension.",
+    "s4_title": "4. Warranty & Maintenance",
+    "s4_p1": "JakwirCode provides free bug/error fixing warranty for a specified duration (typically 30 to 90 days) following official project Handover.",
+    "s4_p2": "Warranty is void if failures stem from unauthorized third-party modifications, cyber attacks outside agreed scope, or client misuse.",
+    "s5_title": "5. Confidentiality (NDA)",
+    "s5_p1": "We are committed to maintaining strict confidentiality regarding all business information, sensor data, application logic, and trade secrets shared during or after the project period.",
+    "s6_title": "6. Limitation of Liability",
+    "s6_p1": "JakwirCode shall not be liable for indirect damages, lost profits, or operational disruptions caused by events beyond reasonable control (Force Majeure) or third-party infrastructure failures.",
+    "footer": "Have questions regarding legalities & service terms?",
+    "footer_link": "Contact JakwirCode Legal Team"
+  },
+  "privacy": {
+    "badge": "Legal & Data Privacy",
+    "title": "Privacy Policy",
+    "last_updated": "Last Updated: January 15, 2026",
+    "intro": "JakwirCode is committed to protecting the privacy and security of personal data and business information of our website users and clients. This Privacy Policy explains how we collect, use, store, and safeguard your data.",
+    "s1_title": "1. Information We Collect",
+    "s1_p1": "We collect information you provide directly when filling out contact forms, engaging in project consultations, or subscribing to our services. This includes your name, email address, phone/WhatsApp number, company name, and project requirements.",
+    "s1_p2": "For IoT systems and web/mobile applications we engineer, sensor telemetry or activity log collection is strictly performed according to explicit permissions in service agreements.",
+    "s2_title": "2. Use of Information",
+    "s2_p1": "Collected information is used solely to respond to consultation requests, provide proposals, execute project contracts, optimize application performance, and supply post-launch technical support.",
+    "s2_p2": "We do not sell, rent, or distribute your personal or business data to third parties for marketing purposes.",
+    "s3_title": "3. Data Security & Storage",
+    "s3_p1": "We implement industry-standard security measures, including data encryption in transit (SSL/TLS), role-based access control (Row Level Security / RLS on Supabase), and credential encryption to protect your system.",
+    "s4_title": "4. Cookies & Analytics",
+    "s4_p1": "Our website may use essential cookies to store language preferences and session states for an optimal navigation experience. We do not use privacy-invasive third-party tracking cookies.",
+    "s5_title": "5. Your Data Rights",
+    "s5_p1": "You have the right to request access to, correction, or deletion of your personal data stored in our systems at any time by contacting our privacy team.",
+    "s6_title": "6. Changes to Privacy Policy",
+    "s6_p1": "JakwirCode reserves the right to update this Privacy Policy at any time. Significant updates will be noted via the date modification on this page.",
+    "footer": "Want to request data deletion or have privacy questions?",
+    "footer_link": "Contact JakwirCode Privacy Team"
+  }
+}

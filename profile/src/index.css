@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+html {
+  background-color: #121212;
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #121212;
+  color: #e5e5e5;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* Scrollbar menyatu dengan tema */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #121212;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0b4251;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffc107;
+}
