@@ -13,7 +13,7 @@ const currentYear = new Date().getFullYear()
         <!-- Kolom 1: Brand Info & Informasi Kontak (Tanpa Ikon) -->
         <div class="col-span-2 md:col-span-1 space-y-3">
           <RouterLink to="/" class="inline-block text-xl font-bold tracking-tight">
-            <span class="text-[#ffc107]">Jakwir</span><span class="text-white">Code</span>
+            <span class="text-white">Jakwir</span><span class="text-[#ffc107]">Code</span>
           </RouterLink>
           <p class="text-neutral-300 text-xs leading-relaxed">
             {{ $t('footer.tagline') }}

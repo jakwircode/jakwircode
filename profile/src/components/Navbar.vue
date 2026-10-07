@@ -15,7 +15,7 @@ const closeMobileMenu = () => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
       <!-- Brand Logo -->
       <RouterLink to="/" class="text-xl font-bold tracking-tight" @click="closeMobileMenu">
-        <span class="text-[#ffc107]">Jakwir</span><span class="text-white">Code</span>
+        <span class="text-white">Jakwir</span><span class="text-[#ffc107]">Code</span>
       </RouterLink>
 
       <!-- Desktop Links -->
