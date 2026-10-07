@@ -32,11 +32,6 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('../views/ContactView.vue'), // Form Konsultasi Proyek
   },
   {
-    path: '/:pathMatch(.*)*',
-    name: 'not-found',
-    component: () => import('../views/NotFound.vue'),
-  },
-  {
     path: '/terms',
     name: 'terms',
     component: () => import('../views/TermsView.vue')
@@ -45,6 +40,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/privacy',
     name: 'privacy',
     component: () => import('../views/PrivacyView.vue')
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'not-found',
+    component: () => import('../views/NotFound.vue'),
   }
 ]
 
